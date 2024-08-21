@@ -13,7 +13,7 @@ response = client.chat.completions.create(
   model="gpt-3.5-turbo",
   messages=[
     {"role": "system", "content": "Vous êtes un assistant expert."},
-    {"role": "user", "content": "Qu'est ce qu'un LLM?"}
+    {"role": "user", "content": "Qu'est ce que Python?"}
   ],
 stream=True,
 )

@@ -30,7 +30,7 @@ def prompt():
 
 def event_stream(conversation: list[dict]) -> str:
     response = client.chat.completions.create(
-        model="gpt-3.5-turbo",
+        model="gpt-4o-mini",
         messages=conversation,
         stream=True
     )
@@ -48,4 +48,3 @@ def build_conversation_dict(messages: list) -> list[dict]:
 
 if __name__ == "__main__":
     app.run(debug=True, host='127.0.0.1', port=5000)
-    
