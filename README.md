@@ -18,4 +18,4 @@ si vous ne clonez pas le dépot.
 soit la commande : 
 > pipenv sync
 
-Il est 
+Il est obligatoire d'avoir un compte [OpenAI](https://openai.com/) payant pour utiliser les API
