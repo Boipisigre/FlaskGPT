@@ -1,6 +1,6 @@
 # FlaskGPT
 
-C'est un clone de simplifier de ChatGPT, dont on trouve
+C'est un clone simplifier de ChatGPT, dont on trouve
 - le code sur [github](https://github.com/DocstringFr/FlaskGPT)
 - la video sur [Youtube](https://www.youtube.com/watch?v=AYmcV3b7lWQ)
 
